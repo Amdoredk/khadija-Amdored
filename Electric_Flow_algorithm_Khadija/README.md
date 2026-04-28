@@ -2,4 +2,4 @@
 
 This folder contains files related to my final project.
 
-[Electrical Flow Algorithm for Power optimization – Khadija Amdored](link-to-your-project)
+[Electric_Flow_algorithm_Khadija – Khadija Amdored](link-to-your-project)
